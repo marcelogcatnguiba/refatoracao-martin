@@ -1,0 +1,19 @@
+{
+    "invoice": {
+        "customer": "BigCo",
+        "performances": [
+            {
+                "playID": "Hamlet",
+                "audience": 55
+            },
+            {
+                "playID": "As You Like It",
+                "audience": 35
+            },
+            {
+                "playID": "Othello",
+                "audience": 40
+            }
+        ]
+    }
+}
